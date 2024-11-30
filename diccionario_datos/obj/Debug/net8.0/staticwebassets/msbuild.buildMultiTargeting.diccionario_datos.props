@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/diccionario_datos.props" />
+</Project>

@@ -1,0 +1,6 @@
+@diccionario_datos_HostAddress = http://localhost:5057
+
+GET {{diccionario_datos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
