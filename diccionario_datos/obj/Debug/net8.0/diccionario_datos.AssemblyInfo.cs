@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("diccionario_datos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f03acd716e033a3224b9c7edbeff5b37c557aa89")]
 [assembly: System.Reflection.AssemblyProductAttribute("diccionario_datos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("diccionario_datos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

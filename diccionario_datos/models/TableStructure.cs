@@ -11,4 +11,5 @@ public class TableStructure
     public string ColumnDescription { get; set; }
     public string IsPrimaryKey { get; set; }
     public string IsForeignKey { get; set; }
+    public string SchemaName { get; set; }
 }
